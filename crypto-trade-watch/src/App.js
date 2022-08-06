@@ -6,15 +6,14 @@ import CoinPage from './Pages/CoinPage';
 import HomePage from './Pages/HomePage';
 
 function App() {
-  const useStyles = makeStyles(()=> ({
+  const useStyles = makeStyles({
     App: {
-      backgroundColor: "#14161a",
-      color: "white",
-      minHeight: "100vh",
-    },
-  }))
+      backgroundColor: '#14161a',
+      color: 'white',
+    }
+  })
 
-  const classes = useStyles();
+  const classes = useStyles()
 
   return (
     <BrowserRouter>
