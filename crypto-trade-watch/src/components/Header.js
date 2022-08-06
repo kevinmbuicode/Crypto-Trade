@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { AppBar, MenuItem, Select, Toolbar, Typography } from '@mui/material';
 import { Container } from '@mui/system';
 import '../App.css';
@@ -30,3 +31,14 @@ const Header = () => {
 }
 
 export default Header;
+=======
+import React from 'react';
+
+const Header = () => {
+  return (
+    <div>Header</div>
+  )
+}
+
+export default Header
+>>>>>>> 348dabd56a645a7d0b784cd61b9e4961b8b4a980
