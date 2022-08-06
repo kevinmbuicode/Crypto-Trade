@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: gold;
+}
+
+.App{
+    background-color: #14161a;
+    color: white;
+}
+
+.Header-Typography{
+    flex: 1;
+    color: gold;
+    font-family: 'Roboto';
+    font-weight: bold;
+    cursor: pointer;
+}
