@@ -1,14 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;700&display=swap');
 
+<<<<<<< HEAD
 
 *{
     margin: 0;
     padding: 0;
+=======
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+>>>>>>> 348dabd56a645a7d0b784cd61b9e4961b8b4a980
 }
 
 a {
     text-decoration: none;
     color: gold;
+<<<<<<< HEAD
 }
 
 .App{
@@ -22,4 +31,6 @@ a {
     font-family: 'Roboto';
     font-weight: bold;
     cursor: pointer;
+=======
+>>>>>>> 348dabd56a645a7d0b784cd61b9e4961b8b4a980
 }
