@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import {
   AppBar,
   createTheme,
@@ -13,14 +12,6 @@ import "../App.css";
 import React, { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import CryptoContextProvider from "../CryptoContext";
-=======
-<<<<<<< HEAD
-import { AppBar, MenuItem, Select, Toolbar, Typography } from '@mui/material';
-import { Container } from '@mui/system';
-import '../App.css';
-import React from 'react';
-
->>>>>>> 624dc8d118d9b49943be228719ef9b53178b20e7
 
 const Header = () => {
   const { currency, symbol} = useContext(CryptoContextProvider)
@@ -67,17 +58,3 @@ const Header = () => {
 };
 
 export default Header;
-<<<<<<< HEAD
-=======
-=======
-import React from 'react';
-
-const Header = () => {
-  return (
-    <div>Header</div>
-  )
-}
-
-export default Header
->>>>>>> 348dabd56a645a7d0b784cd61b9e4961b8b4a980
->>>>>>> 624dc8d118d9b49943be228719ef9b53178b20e7
