@@ -3,16 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-<<<<<<< HEAD
+
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
     "@mui/material": "^5.9.3",
     "@mui/styled-engine-sc": "^5.9.3",
-=======
-    "@mui/material": "^5.9.3",
-    "@mui/styled-engine-sc": "^5.9.3",
-    "@mui/styles": "^5.9.3",
->>>>>>> 348dabd56a645a7d0b784cd61b9e4961b8b4a980
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
